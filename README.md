@@ -3,6 +3,7 @@
 A utility dependency that helps you solving mathmatical expressions.
 
 [![Crate](https://img.shields.io/crates/v/calculator_util.svg)](https://crates.io/crates/calculator_util)
+[![API](https://docs.rs/calculator_util/badge.svg)](https://docs.rs/calculator_util)
 
 This crate provide implementation for Rust's string type, thus you can evaluate math expression by simply using `String.eval()` for supported format.
 
