@@ -2,5 +2,9 @@
 name = "calculator_util"
 version = "0.1.1"
 edition = "2021"
+description = "A crate that helps you evaluating mathmatical expressions."
+license = "MIT"
+keywords = ["calculator", "eval"]
+repository = "https://github.com/J-ZhengLi/calculator_util/"
 
 [features]
