@@ -12,7 +12,7 @@ Add this crate as dependency to your project's `Cargo.toml`.
 
 ```toml
 [dependencies]
-calculator_util = "0.1.1"
+calculator_util = "0.1.2"
 ```
 
 ### Example:
